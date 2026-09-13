@@ -17,4 +17,4 @@ Reproducible numerical companion to the revised AHP–TOPSIS risk-allocation man
 - Archive a release: https://help.zenodo.org/docs/github/archive-software/github-upload/
 - Citation metadata: https://help.zenodo.org/docs/github/describe-software/citation-file/
 
-These instructions were checked on 13 September 2026. This local preparation has not created a public repository or DOI.
+These instructions were checked on 13 September 2026. The public repository is https://github.com/Oblivion-afk-pyth/ahp-topsis-anfis-risk-allocation. Its files and reproduction runner have been checked after downloading from GitHub. Zenodo archiving and DOI assignment remain pending.

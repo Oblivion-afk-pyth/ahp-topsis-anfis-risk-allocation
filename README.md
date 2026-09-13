@@ -56,4 +56,4 @@ GitHub repository: [https://github.com/Oblivion-afk-pyth/ahp-topsis-anfis-risk-a
 
 ## Reuse
 
-Reuse licences are awaiting the authors' selection. No open licence is granted by this draft package. Licence files and citation metadata must be finalised before publication.
+Reuse licences are awaiting the authors' selection. No open licence is granted by this draft package. Licence files and citation metadata must be finalised before the Zenodo archive release.
