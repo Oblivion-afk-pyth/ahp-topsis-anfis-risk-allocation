@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these data or computations, cite the archived version of this research software."
+title: "AHP TOPSIS risk allocation with an exploratory ANFIS evaluation"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Wimalasena
+    given-names: Sulaksha
+  - family-names: Prabhathi
+    given-names: Tharushika
+abstract: "Reproducible AHP and TOPSIS calculations, expert-response dispersion for payment-delay risk, and exploratory two-rule ANFIS and non-adaptive FIS comparisons. R2 through R6 are reconstructed scenarios; no independent outcome validation is claimed."
+keywords:
+  - AHP
+  - TOPSIS
+  - ANFIS
+  - risk allocation
+  - reproducibility
+repository-code: "https://github.com/Oblivion-afk-pyth/ahp-topsis-anfis-risk-allocation"
+url: "https://github.com/Oblivion-afk-pyth/ahp-topsis-anfis-risk-allocation"

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+reproduced/
+.DS_Store
+Thumbs.db

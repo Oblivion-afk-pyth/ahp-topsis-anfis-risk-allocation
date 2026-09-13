@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "reference_comparison": {
+    "rtol": 1e-07,
+    "atol": 1e-09
+  },
+  "workbook_comparisons": 777,
+  "workbook_R1_scores": 1036,
+  "figures_regenerated": true
+}
