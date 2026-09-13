@@ -1,0 +1,2 @@
+# Preserve deposited file bytes so the SHA-256 manifest survives checkout.
+* -text
